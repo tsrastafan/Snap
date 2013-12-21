@@ -53,6 +53,7 @@
 		81DE80551865A40A00FDAF4F /* SnapTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SnapTests-Info.plist"; sourceTree = "<group>"; };
 		81DE80571865A40A00FDAF4F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		81DE80591865A40A00FDAF4F /* SnapTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SnapTests.m; sourceTree = "<group>"; };
+		81DE80631865A4FC00FDAF4F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +83,7 @@
 		81DE80221865A40A00FDAF4F = {
 			isa = PBXGroup;
 			children = (
+				81DE80631865A4FC00FDAF4F /* README.md */,
 				81DE80341865A40A00FDAF4F /* Snap */,
 				81DE80531865A40A00FDAF4F /* SnapTests */,
 				81DE802D1865A40A00FDAF4F /* Frameworks */,
