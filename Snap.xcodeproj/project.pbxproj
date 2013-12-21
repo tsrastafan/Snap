@@ -60,6 +60,7 @@
 		81DE80B01865A5B400FDAF4F /* TableViewBorder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81DE80891865A5B400FDAF4F /* TableViewBorder@2x.png */; };
 		81DE80B11865A5B400FDAF4F /* TextField.png in Resources */ = {isa = PBXBuildFile; fileRef = 81DE808A1865A5B400FDAF4F /* TextField.png */; };
 		81DE80B21865A5B400FDAF4F /* TextField@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81DE808B1865A5B400FDAF4F /* TextField@2x.png */; };
+		81DE80B81865A70000FDAF4F /* Action_Man.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81DE80B71865A70000FDAF4F /* Action_Man.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +133,7 @@
 		81DE80891865A5B400FDAF4F /* TableViewBorder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewBorder@2x.png"; sourceTree = "<group>"; };
 		81DE808A1865A5B400FDAF4F /* TextField.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextField.png; sourceTree = "<group>"; };
 		81DE808B1865A5B400FDAF4F /* TextField@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TextField@2x.png"; sourceTree = "<group>"; };
+		81DE80B71865A70000FDAF4F /* Action_Man.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Action_Man.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 			isa = PBXGroup;
 			children = (
 				81DE80631865A4FC00FDAF4F /* README.md */,
+				81DE80B71865A70000FDAF4F /* Action_Man.ttf */,
 				81DE80341865A40A00FDAF4F /* Snap */,
 				81DE80531865A40A00FDAF4F /* SnapTests */,
 				81DE802D1865A40A00FDAF4F /* Frameworks */,
@@ -391,6 +394,7 @@
 				81DE80901865A5B400FDAF4F /* CellBackground.png in Resources */,
 				81DE80A21865A5B400FDAF4F /* Icon.png in Resources */,
 				81DE80391865A40A00FDAF4F /* InfoPlist.strings in Resources */,
+				81DE80B81865A70000FDAF4F /* Action_Man.ttf in Resources */,
 				81DE80A41865A5B400FDAF4F /* iTunesArtwork in Resources */,
 				81DE80A81865A5B400FDAF4F /* Logo Joker@2x.png in Resources */,
 				81DE80A71865A5B400FDAF4F /* Logo Joker.png in Resources */,
